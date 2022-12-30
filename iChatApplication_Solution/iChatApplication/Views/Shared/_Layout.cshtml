@@ -1,0 +1,45 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+    <environment include="Development">
+        <link rel="stylesheet" href="~/libs/bootstrap/css/bootstrap.css">
+        <link rel="stylesheet" href="~/libs/font-awesome/css/all.css" />
+        <script src="~/libs/bootstrap/js/bootstrap.bundle.js"></script>
+    </environment>
+    
+    <style>
+        body{
+            padding-top:70px;
+            background-color:lightcyan;
+        }
+    </style>
+    @await RenderSectionAsync("styles", false)
+</head>
+<body>
+    <nav class="navbar navbar-light fixed-top navbar-expand-md shadow-lg mb-2">
+        <div class="container-fluid">
+            <span class="navbar-brand"> <b>SignalR<sup>Application</sup></b>
+                <img src="~/Pictures/chat-message-conversation-2-svgrepo-com.svg" height="50px" width="50" style="position:absolute; top: 1px;" />
+            </span>
+            <div class="navbar-collapse collapse">
+                <ul class="navbar-nav nav ms-auto">
+                    <li class="nav-item">
+                        <a class="nav-link" asp-action="Index" asp-controller="Home" ><i class="fa-solid fa-house-user"></i>Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" asp-action="Index" asp-controller="Chat"><i class="fa-solid fa-comment"></i>Chat</a>
+                    </li>
+                     
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <div class="container-fluid">
+        @RenderBody()
+    </div>
+    @await RenderSectionAsync("scripts", false)
+</body>
+</html>

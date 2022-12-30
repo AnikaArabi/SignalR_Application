@@ -1,0 +1,797 @@
+{
+  "Files": [
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\Pictures\\1.jpg",
+      "PackagePath": "staticwebassets\\Pictures\\1.jpg"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\Pictures\\2.jpg",
+      "PackagePath": "staticwebassets\\Pictures\\2.jpg"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\Pictures\\3.jpg",
+      "PackagePath": "staticwebassets\\Pictures\\3.jpg"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\Pictures\\attachment-svgrepo-com.svg",
+      "PackagePath": "staticwebassets\\Pictures\\attachment-svgrepo-com.svg"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\Pictures\\chat-message-conversation-2-svgrepo-com.svg",
+      "PackagePath": "staticwebassets\\Pictures\\chat-message-conversation-2-svgrepo-com.svg"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\Pictures\\doc.png",
+      "PackagePath": "staticwebassets\\Pictures\\doc.png"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\Pictures\\exam10.txt",
+      "PackagePath": "staticwebassets\\Pictures\\exam10.txt"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\Pictures\\mail-new-mail-mails-svgrepo-com.svg",
+      "PackagePath": "staticwebassets\\Pictures\\mail-new-mail-mails-svgrepo-com.svg"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\Pictures\\message-chat-ui-svgrepo-com.svg",
+      "PackagePath": "staticwebassets\\Pictures\\message-chat-ui-svgrepo-com.svg"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\Pictures\\package.json",
+      "PackagePath": "staticwebassets\\Pictures\\package.json"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\Pictures\\send-svgrepo-com.svg",
+      "PackagePath": "staticwebassets\\Pictures\\send-svgrepo-com.svg"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\bootstrap\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\bootstrap\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\bootstrap\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\bootstrap\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\bootstrap\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\bootstrap\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\bootstrap\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\bootstrap\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\bootstrap\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\bootstrap\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\bootstrap\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\bootstrap\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\bootstrap\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\bootstrap\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\bootstrap\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\bootstrap\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\bootstrap\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\bootstrap\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\bootstrap\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\bootstrap\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\bootstrap\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\bootstrap\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\bootstrap\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\bootstrap\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\bootstrap\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\bootstrap\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\bootstrap\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\bootstrap\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\bootstrap\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\bootstrap\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\bootstrap\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\bootstrap\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\bootstrap\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\bootstrap\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\bootstrap\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\bootstrap\\scss\\_accordion.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_accordion.scss"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\bootstrap\\scss\\_alert.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_alert.scss"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\bootstrap\\scss\\_badge.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_badge.scss"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\bootstrap\\scss\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_breadcrumb.scss"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\bootstrap\\scss\\_button-group.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_button-group.scss"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\bootstrap\\scss\\_buttons.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_buttons.scss"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\bootstrap\\scss\\_card.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_card.scss"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\bootstrap\\scss\\_carousel.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_carousel.scss"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\bootstrap\\scss\\_close.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_close.scss"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\bootstrap\\scss\\_containers.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_containers.scss"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\bootstrap\\scss\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_dropdown.scss"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\bootstrap\\scss\\_forms.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_forms.scss"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\bootstrap\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_functions.scss"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\bootstrap\\scss\\_grid.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_grid.scss"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\bootstrap\\scss\\_helpers.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_helpers.scss"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\bootstrap\\scss\\_images.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_images.scss"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\bootstrap\\scss\\_list-group.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_list-group.scss"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\bootstrap\\scss\\_maps.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_maps.scss"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\bootstrap\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\bootstrap\\scss\\_modal.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_modal.scss"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\bootstrap\\scss\\_nav.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_nav.scss"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\bootstrap\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\bootstrap\\scss\\_offcanvas.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_offcanvas.scss"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\bootstrap\\scss\\_pagination.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_pagination.scss"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\bootstrap\\scss\\_placeholders.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_placeholders.scss"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\bootstrap\\scss\\_popover.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_popover.scss"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\bootstrap\\scss\\_progress.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_progress.scss"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\bootstrap\\scss\\_reboot.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_reboot.scss"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\bootstrap\\scss\\_root.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_root.scss"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\bootstrap\\scss\\_spinners.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_spinners.scss"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\bootstrap\\scss\\_tables.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_tables.scss"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\bootstrap\\scss\\_toasts.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_toasts.scss"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\bootstrap\\scss\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_tooltip.scss"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\bootstrap\\scss\\_transitions.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_transitions.scss"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\bootstrap\\scss\\_type.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_type.scss"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\bootstrap\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\bootstrap\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_variables.scss"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\bootstrap\\scss\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\bootstrap\\scss\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\bootstrap\\scss\\bootstrap-utilities.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\bootstrap-utilities.scss"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\bootstrap\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\bootstrap\\scss\\forms\\_floating-labels.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\forms\\_floating-labels.scss"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\bootstrap\\scss\\forms\\_form-check.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\forms\\_form-check.scss"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\bootstrap\\scss\\forms\\_form-control.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\forms\\_form-control.scss"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\bootstrap\\scss\\forms\\_form-range.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\forms\\_form-range.scss"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\bootstrap\\scss\\forms\\_form-select.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\forms\\_form-select.scss"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\bootstrap\\scss\\forms\\_form-text.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\forms\\_form-text.scss"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\bootstrap\\scss\\forms\\_input-group.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\forms\\_input-group.scss"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\bootstrap\\scss\\forms\\_labels.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\forms\\_labels.scss"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\bootstrap\\scss\\forms\\_validation.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\forms\\_validation.scss"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\bootstrap\\scss\\helpers\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\helpers\\_clearfix.scss"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\bootstrap\\scss\\helpers\\_color-bg.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\helpers\\_color-bg.scss"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\bootstrap\\scss\\helpers\\_colored-links.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\helpers\\_colored-links.scss"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\bootstrap\\scss\\helpers\\_position.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\helpers\\_position.scss"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\bootstrap\\scss\\helpers\\_ratio.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\helpers\\_ratio.scss"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\bootstrap\\scss\\helpers\\_stacks.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\helpers\\_stacks.scss"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\bootstrap\\scss\\helpers\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\helpers\\_stretched-link.scss"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\bootstrap\\scss\\helpers\\_text-truncation.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\helpers\\_text-truncation.scss"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\bootstrap\\scss\\helpers\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\helpers\\_visually-hidden.scss"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\bootstrap\\scss\\helpers\\_vr.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\helpers\\_vr.scss"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\bootstrap\\scss\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\bootstrap\\scss\\mixins\\_backdrop.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\mixins\\_backdrop.scss"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\bootstrap\\scss\\mixins\\_banner.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\mixins\\_banner.scss"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\bootstrap\\scss\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\bootstrap\\scss\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\bootstrap\\scss\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\bootstrap\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\bootstrap\\scss\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\bootstrap\\scss\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\bootstrap\\scss\\mixins\\_color-scheme.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\mixins\\_color-scheme.scss"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\bootstrap\\scss\\mixins\\_container.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\mixins\\_container.scss"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\bootstrap\\scss\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\bootstrap\\scss\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\bootstrap\\scss\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\bootstrap\\scss\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\bootstrap\\scss\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\mixins\\_image.scss"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\bootstrap\\scss\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\bootstrap\\scss\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\bootstrap\\scss\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\bootstrap\\scss\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\bootstrap\\scss\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\bootstrap\\scss\\mixins\\_table-variants.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\mixins\\_table-variants.scss"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\bootstrap\\scss\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\bootstrap\\scss\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\bootstrap\\scss\\mixins\\_utilities.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\mixins\\_utilities.scss"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\bootstrap\\scss\\mixins\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\mixins\\_visually-hidden.scss"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\bootstrap\\scss\\utilities\\_api.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\utilities\\_api.scss"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\bootstrap\\scss\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\font-awesome\\css\\all.css",
+      "PackagePath": "staticwebassets\\libs\\font-awesome\\css\\all.css"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\font-awesome\\css\\all.min.css",
+      "PackagePath": "staticwebassets\\libs\\font-awesome\\css\\all.min.css"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\font-awesome\\css\\brands.css",
+      "PackagePath": "staticwebassets\\libs\\font-awesome\\css\\brands.css"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\font-awesome\\css\\brands.min.css",
+      "PackagePath": "staticwebassets\\libs\\font-awesome\\css\\brands.min.css"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\font-awesome\\css\\fontawesome.css",
+      "PackagePath": "staticwebassets\\libs\\font-awesome\\css\\fontawesome.css"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\font-awesome\\css\\fontawesome.min.css",
+      "PackagePath": "staticwebassets\\libs\\font-awesome\\css\\fontawesome.min.css"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\font-awesome\\css\\regular.css",
+      "PackagePath": "staticwebassets\\libs\\font-awesome\\css\\regular.css"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\font-awesome\\css\\regular.min.css",
+      "PackagePath": "staticwebassets\\libs\\font-awesome\\css\\regular.min.css"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\font-awesome\\css\\solid.css",
+      "PackagePath": "staticwebassets\\libs\\font-awesome\\css\\solid.css"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\font-awesome\\css\\solid.min.css",
+      "PackagePath": "staticwebassets\\libs\\font-awesome\\css\\solid.min.css"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\font-awesome\\css\\svg-with-js.css",
+      "PackagePath": "staticwebassets\\libs\\font-awesome\\css\\svg-with-js.css"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\font-awesome\\css\\svg-with-js.min.css",
+      "PackagePath": "staticwebassets\\libs\\font-awesome\\css\\svg-with-js.min.css"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\font-awesome\\css\\v4-font-face.css",
+      "PackagePath": "staticwebassets\\libs\\font-awesome\\css\\v4-font-face.css"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\font-awesome\\css\\v4-font-face.min.css",
+      "PackagePath": "staticwebassets\\libs\\font-awesome\\css\\v4-font-face.min.css"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\font-awesome\\css\\v4-shims.css",
+      "PackagePath": "staticwebassets\\libs\\font-awesome\\css\\v4-shims.css"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\font-awesome\\css\\v4-shims.min.css",
+      "PackagePath": "staticwebassets\\libs\\font-awesome\\css\\v4-shims.min.css"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\font-awesome\\css\\v5-font-face.css",
+      "PackagePath": "staticwebassets\\libs\\font-awesome\\css\\v5-font-face.css"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\font-awesome\\css\\v5-font-face.min.css",
+      "PackagePath": "staticwebassets\\libs\\font-awesome\\css\\v5-font-face.min.css"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\font-awesome\\js\\all.js",
+      "PackagePath": "staticwebassets\\libs\\font-awesome\\js\\all.js"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\font-awesome\\js\\all.min.js",
+      "PackagePath": "staticwebassets\\libs\\font-awesome\\js\\all.min.js"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\font-awesome\\js\\brands.js",
+      "PackagePath": "staticwebassets\\libs\\font-awesome\\js\\brands.js"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\font-awesome\\js\\brands.min.js",
+      "PackagePath": "staticwebassets\\libs\\font-awesome\\js\\brands.min.js"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\font-awesome\\js\\conflict-detection.js",
+      "PackagePath": "staticwebassets\\libs\\font-awesome\\js\\conflict-detection.js"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\font-awesome\\js\\conflict-detection.min.js",
+      "PackagePath": "staticwebassets\\libs\\font-awesome\\js\\conflict-detection.min.js"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\font-awesome\\js\\fontawesome.js",
+      "PackagePath": "staticwebassets\\libs\\font-awesome\\js\\fontawesome.js"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\font-awesome\\js\\fontawesome.min.js",
+      "PackagePath": "staticwebassets\\libs\\font-awesome\\js\\fontawesome.min.js"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\font-awesome\\js\\regular.js",
+      "PackagePath": "staticwebassets\\libs\\font-awesome\\js\\regular.js"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\font-awesome\\js\\regular.min.js",
+      "PackagePath": "staticwebassets\\libs\\font-awesome\\js\\regular.min.js"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\font-awesome\\js\\solid.js",
+      "PackagePath": "staticwebassets\\libs\\font-awesome\\js\\solid.js"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\font-awesome\\js\\solid.min.js",
+      "PackagePath": "staticwebassets\\libs\\font-awesome\\js\\solid.min.js"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\font-awesome\\js\\v4-shims.js",
+      "PackagePath": "staticwebassets\\libs\\font-awesome\\js\\v4-shims.js"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\font-awesome\\js\\v4-shims.min.js",
+      "PackagePath": "staticwebassets\\libs\\font-awesome\\js\\v4-shims.min.js"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\font-awesome\\sprites\\brands.svg",
+      "PackagePath": "staticwebassets\\libs\\font-awesome\\sprites\\brands.svg"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\font-awesome\\sprites\\regular.svg",
+      "PackagePath": "staticwebassets\\libs\\font-awesome\\sprites\\regular.svg"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\font-awesome\\sprites\\solid.svg",
+      "PackagePath": "staticwebassets\\libs\\font-awesome\\sprites\\solid.svg"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\font-awesome\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\libs\\font-awesome\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\font-awesome\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\libs\\font-awesome\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\font-awesome\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\libs\\font-awesome\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\font-awesome\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\libs\\font-awesome\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\font-awesome\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\libs\\font-awesome\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\font-awesome\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\libs\\font-awesome\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\font-awesome\\webfonts\\fa-v4compatibility.ttf",
+      "PackagePath": "staticwebassets\\libs\\font-awesome\\webfonts\\fa-v4compatibility.ttf"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\font-awesome\\webfonts\\fa-v4compatibility.woff2",
+      "PackagePath": "staticwebassets\\libs\\font-awesome\\webfonts\\fa-v4compatibility.woff2"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\jquery\\jquery.js",
+      "PackagePath": "staticwebassets\\libs\\jquery\\jquery.js"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\jquery\\jquery.min.js",
+      "PackagePath": "staticwebassets\\libs\\jquery\\jquery.min.js"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\jquery\\jquery.min.map",
+      "PackagePath": "staticwebassets\\libs\\jquery\\jquery.min.map"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\jquery\\jquery.slim.js",
+      "PackagePath": "staticwebassets\\libs\\jquery\\jquery.slim.js"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\jquery\\jquery.slim.min.js",
+      "PackagePath": "staticwebassets\\libs\\jquery\\jquery.slim.min.js"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\jquery\\jquery.slim.min.map",
+      "PackagePath": "staticwebassets\\libs\\jquery\\jquery.slim.min.map"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\microsoft-signalr\\signalr.js",
+      "PackagePath": "staticwebassets\\libs\\microsoft-signalr\\signalr.js"
+    },
+    {
+      "Id": "I:\\EvidenceSignalR\\iChatApplication_Solution\\iChatApplication\\wwwroot\\libs\\microsoft-signalr\\signalr.min.js",
+      "PackagePath": "staticwebassets\\libs\\microsoft-signalr\\signalr.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.iChatApplication.props",
+      "PackagePath": "build\\iChatApplication.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.iChatApplication.props",
+      "PackagePath": "buildMultiTargeting\\iChatApplication.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.iChatApplication.props",
+      "PackagePath": "buildTransitive\\iChatApplication.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.iChatApplication.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
